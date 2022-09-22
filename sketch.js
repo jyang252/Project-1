@@ -31,7 +31,7 @@ class Block {
 }
 
 let blocks = [];
-let numLock = 50;
+let numLock = 100;
 let cnv;
 i = 0;
 b = 0;
